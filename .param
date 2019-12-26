@@ -1,0 +1,4 @@
+# set platform from [managed, gke, kubernetes]
+PLATFORM=managed
+# set region from [managed, gke, kubernetes]
+REGION=us-central1
